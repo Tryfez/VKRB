@@ -1,0 +1,4 @@
+﻿  VKRB.cpp
+C:\Users\user\source\repos\VKRB\VKRB\VKRB.cpp(378,27): warning C4101: e: неиспользованная локальная переменная
+C:\Users\user\source\repos\VKRB\VKRB\VKRB.cpp(423,27): warning C4101: e: неиспользованная локальная переменная
+  VKRB.vcxproj -> C:\Users\user\source\repos\VKRB\x64\Debug\VKRB.exe
